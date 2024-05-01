@@ -1,10 +1,14 @@
 {
   "name": "timer-for-pomodoro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and effective solution to integrate Pomodoro timers into your applications.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git@github.com:New-Mango-Studio/timer-for-pomodoro.git"
   },
     "keywords": [
     "pomodoro",
@@ -15,5 +19,6 @@
     "clock"
   ],
   "author": "LuciaNishimiya",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/New-Mango-Studio/timer-for-pomodoro"
 }
