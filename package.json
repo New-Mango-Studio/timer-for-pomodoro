@@ -1,0 +1,19 @@
+{
+  "name": "timer-for-pomodoro",
+  "version": "1.0.0",
+  "description": "Simple and effective solution to integrate Pomodoro timers into your applications.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "keywords": [
+    "pomodoro",
+    "pomodoro-timer",
+    "timer-for-pomodoro",
+    "timer",
+    "productivity",
+    "clock"
+  ],
+  "author": "LuciaNishimiya",
+  "license": "MIT"
+}
